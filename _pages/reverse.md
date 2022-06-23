@@ -2,6 +2,7 @@
 layout: page
 permalink: /reverse/
 title: Posts about "Reverse Engineering"
+author_profile: true
 ---
 
 <div class="reverse">
