@@ -5,7 +5,7 @@ title: Posts about "Reverse Engineering"
 ---
 
 <div class="reverse">
-  {% for post in site.categories['reverse'] %}
+  {% for post in site.categories['Reverse'] %}
     <article class="post">
       <h1>
           <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
