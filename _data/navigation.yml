@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "Malware"
-    url: http://yeeyeeyeeee.github.io/malware/
+    url: https://yeeyeeyeeee.github.io/malware/
   - title: "Reverse"
-    url: http://yeeyeeyeeee.github.io/reverse/
+    url: https://yeeyeeyeeee.github.io/reverse/
+    
+
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
